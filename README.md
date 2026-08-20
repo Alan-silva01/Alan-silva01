@@ -1,30 +1,20 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D26A,100:39D353&height=220&section=header&text=Alan%20Ferreira%20da%20Silva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Entusiasta%20de%20Automação%20%26%20Inteligência%20Artificial&descSize=18&descAlignY=55&descAlign=50" />
-
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Apaixonado+por+Automa%C3%A7%C3%A3o+%26+Intelig%C3%AAncia+Artificial;Construindo+solu%C3%A7%C3%B5es+reais+com+N8N+%2B+IA;Ingressando+em+ADS+pela+UEMA;Se+tem+problema%2C+eu+automatizo." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Alan+Ferreira+da+Silva" alt="Typing SVG" />
 </a>
+
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
-
 ### Sobre Mim
 
-Sou o Alan, do Maranhao. Tenho formacao como Tecnico em Automacao Industrial e sou graduado em Investigacao Forense e Pericia Criminal (IFPC). Agora estou ingressando em Analise e Desenvolvimento de Sistemas (ADS) pela UEMA.
+Sou o Alan Silva. Formacao como Tecnico em Automacao Industrial e sou graduado em Investigacao Forense e Pericia Criminal (IFPC). Agora estou ingressando em Analise e Desenvolvimento de Sistemas (ADS) pela UEMA.
 
 Antes mesmo de comecar a graduacao em TI, ja desenvolvo e entrego solucoes reais com automacao e inteligencia artificial. Trabalho com N8N, agentes de IA e integracoes entre sistemas — tudo construido com apoio de IA.
-
-Sou Parceiro Certificado BotConversa e membro das comunidades Dinastia e Sem Codar.
-
-**Se tem problema, eu automatizo.**
-
-<br clear="both"/>
 
 ---
 
@@ -82,14 +72,10 @@ Sou Parceiro Certificado BotConversa e membro das comunidades Dinastia e Sem Cod
 
 ## Contribuicoes
 
-<!-- Activity Graph -->
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-silva01&bg_color=0d1117&color=00D26A&line=39D353&point=ffffff&area=true&area_color=00D26A&hide_border=true" alt="Activity Graph" />
 </div>
 
-<br/>
-
-<!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Alan-silva01/Alan-silva01/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
@@ -120,10 +106,6 @@ Sou Parceiro Certificado BotConversa e membro das comunidades Dinastia e Sem Cod
 
 <div align="center">
 
-### *"Se tem problema, eu automatizo. Se tem processo manual, eu coloco IA pra resolver."*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D26A,100:39D353&height=120&section=footer" />
+*Transformo tarefas manuais em processos automatizados com IA.*
 
 </div>
