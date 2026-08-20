@@ -18,6 +18,18 @@ Antes mesmo de comecar a graduacao em TI, ja desenvolvo e entrego solucoes reais
 
 ---
 
+## Contribuicoes
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-silva01&bg_color=0d1117&color=00D26A&line=39D353&point=ffffff&area=true&area_color=00D26A&hide_border=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alan-silva01/Alan-silva01/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## Tech Stack & Ferramentas
 
 <div align="center">
@@ -37,16 +49,15 @@ Antes mesmo de comecar a graduacao em TI, ja desenvolvo e entrego solucoes reais
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=fff" />
   <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=fff" />
   <img src="https://img.shields.io/badge/BotConversa-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=fff" />
   <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Z--API-128C7E?style=for-the-badge&logo=whatsapp&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Evo_API-128C7E?style=for-the-badge&logo=whatsapp&logoColor=fff" />
 </p>
 
 #### Infraestrutura & Backend
 <p>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff" />
   <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff" />
   <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=fff" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff" />
@@ -56,28 +67,12 @@ Antes mesmo de comecar a graduacao em TI, ja desenvolvo e entrego solucoes reais
 <p>
   <img src="https://img.shields.io/badge/Kommo-1E88E5?style=for-the-badge&logoColor=fff" />
   <img src="https://img.shields.io/badge/RD_Station-00C853?style=for-the-badge&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Hotmart-F04E23?style=for-the-badge&logo=hotmart&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Asaas-1A1A2E?style=for-the-badge&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=fff" />
 </p>
 
-#### Design
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=fff" />
-</p>
 
-</div>
 
----
-
-## Contribuicoes
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-silva01&bg_color=0d1117&color=00D26A&line=39D353&point=ffffff&area=true&area_color=00D26A&hide_border=true" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Alan-silva01/Alan-silva01/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
