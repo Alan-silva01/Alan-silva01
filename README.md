@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Alan+Ferreira+da+Silva" alt="Typing SVG" />
 </a>
 
-
 </div>
 
 ---
@@ -21,11 +20,7 @@ Antes mesmo de comecar a graduacao em TI, ja desenvolvo e entrego solucoes reais
 ## Contribuicoes
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-silva01&bg_color=0d1117&color=00D26A&line=39D353&point=ffffff&area=true&area_color=00D26A&hide_border=true" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Alan-silva01/Alan-silva01/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Alan-silva01/Alan-silva01/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
@@ -53,14 +48,14 @@ Antes mesmo de comecar a graduacao em TI, ja desenvolvo e entrego solucoes reais
   <img src="https://img.shields.io/badge/Evo_API-128C7E?style=for-the-badge&logo=whatsapp&logoColor=fff" />
 </p>
 
-#### Infraestrutura & Backend
+#### Infraestrutura, Backend & E-commerce
 <p>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Medusa_JS-8A2BE2?style=for-the-badge&logo=medusa&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff" />
 </p>
 
 #### CRM & Integracoes
@@ -70,8 +65,6 @@ Antes mesmo de comecar a graduacao em TI, ja desenvolvo e entrego solucoes reais
   <img src="https://img.shields.io/badge/Asaas-1A1A2E?style=for-the-badge&logoColor=fff" />
   <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=fff" />
 </p>
-
-
 
 </div>
 
